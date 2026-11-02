@@ -6,6 +6,7 @@ app = FastAPI()
 
 URL_FRUITYVICE = "https://www.fruityvice.com/api/fruit/"
 
+
 sucos = []
 
 
